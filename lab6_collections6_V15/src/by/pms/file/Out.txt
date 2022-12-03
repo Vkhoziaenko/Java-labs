@@ -1,0 +1,20 @@
+Airline{destination='Maria Aurora', flightNumber=2430, type='Lexus', departureTime='19:50', dayOfWeek='Monday'}
+Airline{destination='Haukivuori', flightNumber=454, type='Mercury', departureTime='9:48', dayOfWeek='mondey'}
+Airline{destination='Nhơn Trạch', flightNumber=4, type='GMC', departureTime='16:03', dayOfWeek='Saturday'}
+Airline{destination='Guadalupe', flightNumber=8, type='Dodge', departureTime='3:08', dayOfWeek='Saturday'}
+Airline{destination='Podstrana', flightNumber=5, type='Chevrolet', departureTime='18:34', dayOfWeek='Wednesday'}
+Airline{destination='Pung-Pang', flightNumber=595, type='Lexus', departureTime='22:29', dayOfWeek='Tuesday'}
+Airline{destination='Duoxiang', flightNumber=2936, type='Acura', departureTime='22:40', dayOfWeek='Wednesday'}
+Airline{destination='Hněvotín', flightNumber=50, type='Buick', departureTime='0:23', dayOfWeek='Friday'}
+Airline{destination='Sosnovka', flightNumber=46548, type='Acura', departureTime='7:12', dayOfWeek='Sunday'}
+Airline{destination='Tingsryd', flightNumber=9, type='Mazda', departureTime='9:32', dayOfWeek='Tuesday'}
+Airline{destination='Zhaozhen', flightNumber=70231, type='Hyundai', departureTime='0:01', dayOfWeek='Monday'}
+Airline{destination='Dong’ao', flightNumber=778, type='Ford', departureTime='15:12', dayOfWeek='Wednesday'}
+Airline{destination='Kongolo', flightNumber=1367, type='Volkswagen', departureTime='16:15', dayOfWeek='Thursday'}
+Airline{destination='Mallawī', flightNumber=93, type='Mitsubishi', departureTime='9:03', dayOfWeek='Saturday'}
+Airline{destination='Portela', flightNumber=95, type='Chevrolet', departureTime='14:19', dayOfWeek='Sunday'}
+Airline{destination='Rassvet', flightNumber=7, type='GMC', departureTime='20:38', dayOfWeek='Friday'}
+Airline{destination='Balkh', flightNumber=52430, type='Chevrolet', departureTime='0:40', dayOfWeek='Tuesday'}
+Airline{destination='Massy', flightNumber=912, type='Volvo', departureTime='4:35', dayOfWeek='Thursday'}
+Airline{destination='Ţūbās', flightNumber=780, type='Chevrolet', departureTime='9:14', dayOfWeek='Friday'}
+Airline{destination='Umeå', flightNumber=99, type='Land Rover', departureTime='13:24', dayOfWeek='Thursday'}
